@@ -6,7 +6,7 @@ function Footer() {
   return (
     <footer>
       <a
-        href="https://github.com/praaatik/mars-weather"
+        href="https://github.com/ThereIsSomething/MARS_WEATHER"
         target="_blank"
         rel="noopener noreferrer"
       >
