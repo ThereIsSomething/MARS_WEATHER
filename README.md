@@ -11,7 +11,6 @@
 
 - This site has been published on [GitHub Pages](https://praaatik.github.io/mars-weather/)
 
-![Screenshot](https://raw.githubusercontent.com/praaatik/mars-weather/main/screenshot.PNG)
 
 ## Want to run the app locally instead?
 
