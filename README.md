@@ -9,7 +9,7 @@
   - Average Wind Speed (in meters/sec)
   - Average Pressure (in Pascal)
 
-- This site has been published on [GitHub Pages](https://praaatik.github.io/mars-weather/)
+- This site has been published on [GitHub Pages](https://ThereIsSomething.github.io/MARS_WEATHER/)
 
 
 ## Want to run the app locally instead?
@@ -19,13 +19,13 @@ You need to have [Node.js](https://nodejs.org/en/) pre-installed on your machine
 To run the app, first clone the repository.
 
 ```
-git clone https://github.com/praaatik/mars-weather
+git clone https://github.com/ThereIsSomething/MARS-WEATHER
 ```
 
 Change to the directory
 
 ```
-cd mars-weather/
+cd MARS_WEATHER/
 ```
 
 Install the dependencies by running the following command
